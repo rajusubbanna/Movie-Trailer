@@ -47,12 +47,18 @@ media.Movie(
     "http://www.impawards.com/2004/posters/oceans_twelve.jpg",
     "https://www.youtube.com/watch?v=Ze4WPu2kHus"
             ),
+#media.Movie(
+#   "<A TITLE>",
+#    "<Storyline for this movie>",
+#    "<URL to poster image>",
+#    "<URL to youtube trailer>"
+#           ),
 media.Movie(
     "Ocean 11",
     "Centered on a series of Las Vegas casino robberies",
     "http://www.digitallyobsessed.com/cover_art1/oceans11-2001.jpg",
     "https://www.youtube.com/watch?v=Ze4WPu2kHus"
-            )                  
+            )    
 ]       #END:Initialize alist with 7 movies contents 
 
 """ Call the function that creates the page dynamically """
