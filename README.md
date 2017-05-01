@@ -56,7 +56,6 @@ a real data would be
 
 or copy lines 50 to 55 as many times, as many movies to be added and fill the
 contents. The contents are shown below
-*
 ```
 media.Movie(
            "<A TITLE>",
@@ -65,18 +64,16 @@ media.Movie(
             "<URL to youtube trailer>"
              ),
 ```
-*
 For Toy Story movie above it would be
-*
-```
+<pre><code>
 media.Movie(
    "Toy Story",
    "A story of boy and this toys",
    "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
    "https://www.youtube.com/watch?v=vwyZH85NQC4"
            ),
-```
-*
+</code></pre>
+
 # More Information:
 
 This is developed as part of the Udacity Fullstack nanodegree course.
