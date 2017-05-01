@@ -1,4 +1,4 @@
-# Movie Trailer:
+# Movie Trailer
 
 This is a simple python application that creates a static webpage to
 display a list of movies, movie information provided in certain format.
@@ -6,7 +6,7 @@ This webpage displays the poster pictures of the movies and its title.
 Clicking on the choice of movie will then play a
 trailer of that movie.
 
-# Install instruction:
+## Install instruction:
 
 Please create a GitHub account if you don't already have one.
 For detailed instuctions to create a GitHub account
@@ -21,7 +21,7 @@ Example:
 2. cd MovieTrailer
 ```
 
-# What it contains:
+## What it contains:
 
 There is no library that gets created for public use or API published.
 This Project has 3 source files.
@@ -32,7 +32,7 @@ This Project has 3 source files.
 3. It example usage file entertainmentMedia.py.py
 ```
 
-# How it works:
+## How it works:
 
 The example media.py code actually creates a list of movies and interface with API
 published by fresh_tomatoes for creating a static webpage that gets
@@ -74,15 +74,15 @@ media.Movie(
            ),
 </code></pre>
 
-# More Information:
+## More Information:
 
 This is developed as part of the Udacity Fullstack nanodegree course.
 There are excellent courses offered at Udacity, please feel free to browse through and pick your kind.
 
-# License:
+## License:
 
 No copyright and licensing required to run this code.
 However fresh_tomatoes.py is provided by Udacity, please check with them for futher details about it. This is a public domain work. Feel free to do whatever you want with it.
 
-# Author :
+## Author :
 Raju Subana, except for fresh_tomatoes.py. Code provided as-is.
