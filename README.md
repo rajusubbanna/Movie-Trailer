@@ -15,6 +15,11 @@ Python installation is expected to be installed on the target machine.
 For futher instrucitons on python installation please refer to www.python.org.
 
 Then please clone/branch this Movie Trailer project from [GitHub](https://github.com/rajusubbanna/Movie-Trailer)
+Example:
+```
+1. git clone https://github.com/rajusubbanna/Movie-Trailer
+2. cd MovieTrailer
+```
 
 
 # What it contains:
@@ -73,10 +78,6 @@ media.Movie(
            ),
 ```
 *
-
-
-
-
 # More Information:
 
 This is developed as part of the Udacity Fullstack nanodegree course.
