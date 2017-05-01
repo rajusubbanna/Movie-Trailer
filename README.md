@@ -6,20 +6,20 @@ This webpage displays the  poster pictures
 of the movies and the names. Clicking on the choice of movie will play a
 trailer of that movie. This is a python application.
 
-# Install instruction.:
+# Install instruction:
 
-Please create a github account if you dont have one.
+Please create a GitHub account if you don't already have one.
 For detailed instuctions to create a github account
 please refer to [GitHub site](http://www.gihub.com)
-Python installation is expected to be installed on the machine.
+Python installation is expected to be installed on the target machine.
 For futher instrucitons on python installation please refer to www.python.org.
 
-Then please clone this Movie Trailer project from [GitHub](https://github.com/rajusubbanna/Movie-Trailer)
+Then please clone/branch this Movie Trailer project from [GitHub](https://github.com/rajusubbanna/Movie-Trailer)
 
 
 # What it contains:
 
-There is no library that gets created for public use.
+There is no library that gets created for public use or API published.
 This Project has 3 source files.
 ```
 1. The file fresh_tomatoes.py, downloaded/cloned via github Repository ud036_StarterCode
@@ -31,8 +31,8 @@ This Project has 3 source files.
 # How it works:
 
 The example media.py code actually creates a list of movies and interface with API
-published by fresh_tomatoes for creating a static webpage that can
-be displayed in any browser. Clicking on any of the poster would then play
+published by fresh_tomatoes for creating a static webpage that gets
+displayed in the default browser. Clicking on any of the poster would then play
 the movies trailer.
 Example:
         File entertainmentMedia.py shows how this application can be used. For every movie that needs to be added to this dynamically created webpage needs 4 information
