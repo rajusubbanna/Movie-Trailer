@@ -1,18 +1,18 @@
 # Movie Trailer:
 
-This website is an application that dynamically creates a webpage to
-display that lists movies of my choice in that page.
-This webpage displays the  poster pictures
-of the movies and the names. Clicking on the choice of movie will play a
-trailer of that movie. This is a python application.
+This is a simple python application that creates a static webpage to
+display a list of movies, movie information provided in certain format.
+This webpage displays the poster pictures of the movies and its title.
+Clicking on the choice of movie will then play a
+trailer of that movie.
 
 # Install instruction:
 
 Please create a GitHub account if you don't already have one.
-For detailed instuctions to create a github account
+For detailed instuctions to create a GitHub account
 please refer to [GitHub site](http://www.gihub.com)
 Python installation is expected to be installed on the target machine.
-For futher instrucitons on python installation please refer to www.python.org.
+For futher instructions on python installation please refer to www.python.org.
 
 Then please clone/branch this Movie Trailer project from [GitHub](https://github.com/rajusubbanna/Movie-Trailer)
 Example:
@@ -21,13 +21,12 @@ Example:
 2. cd MovieTrailer
 ```
 
-
 # What it contains:
 
 There is no library that gets created for public use or API published.
 This Project has 3 source files.
 ```
-1. The file fresh_tomatoes.py, downloaded/cloned via github Repository ud036_StarterCode
+1. The file fresh_tomatoes.py, downloaded/cloned via GitHub Repository ud036_StarterCode
 2. The class declaration file Movie.py.
         *This has simple constructors to creates a Movie instanec.
 3. It example usage file entertainmentMedia.py.py
